@@ -1,0 +1,51 @@
+spriteTypes = {	
+
+
+	spriteType = {
+		name = "GFX_alerticons"
+		texturefile = "gfx//interface//alerticons.tga"
+		noOfFrames = 70
+		loadType = "INGAME"
+		allwaystransparent = yes
+	}
+
+	frameAnimatedSpriteType = {
+		name = "GFX_alerticon_banner"
+		texturefile = "gfx//interface//alerticon_banner.tga"
+		noOfFrames = 20
+		loadType = "INGAME"
+		transparencecheck = yes
+		animation_rate_fps = 20
+		looping = yes
+		play_on_show = yes
+		pause_on_loop = 2.0
+	}
+	
+	spriteType = {
+		name = "GFX_alerticon_banner_med"
+		texturefile = "gfx//interface//alerticon_banner4.tga"
+		noOfFrames = 1
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	
+	spriteType = {
+		name = "GFX_alerticon_banner_low"
+		texturefile = "gfx//interface//alerticon_banner3.tga"
+		noOfFrames = 1
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	
+	spriteType = 
+	{
+		name = "GFX_alerticon_dismiss"
+		texturefile = "gfx\\interface\\alerticon_dismiss.dds"
+	}
+	
+	spriteType = 
+	{
+		name = "GFX_alerticon_dismiss_always"
+		texturefile = "gfx\\interface\\alerticon_dismiss_always.dds"
+	}	
+}

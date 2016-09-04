@@ -1,0 +1,75 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_hre_war_peace_strip"
+		texturefile = "gfx//interface//hre_war_peace_strip.dds"
+		loadType = "INGAME"
+		noOfFrames = 2		
+	}
+	
+		spriteType = {
+		name = "GFX_outliner_elector"
+		texturefile = "gfx//interface//outliner_elector.dds"
+		loadType = "INGAME"
+		allwaystransparent = yes
+	}
+	
+		spriteType = {
+		name = "GFX_outliner_free_city"
+		texturefile = "gfx//interface//outliner_free_city.dds"
+		loadType = "INGAME"
+		allwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "GFX_join_heretic_league_button"
+		texturefile = "gfx//interface//join_heretic_league_button.dds"
+		loadType = "INGAME"
+		noOfFrames = 3		
+	}
+
+	spriteType = {
+		name = "GFX_join_league_button"
+		texturefile = "gfx//interface//join_league_button.dds"
+		loadType = "INGAME"
+		noOfFrames = 3		
+	}
+
+	spriteType = {
+		name = "GFX_more_dip_actions_icon"
+		texturefile = "gfx//interface//more_dip_actions_icon.dds"
+		loadType = "INGAME"
+	}
+
+	spriteType = {
+		name = "GFX_hre_emp_benefits_icon"
+		texturefile = "gfx//interface//hre_emp_benefits_icon.dds"
+		loadType = "INGAME"
+	}
+
+	spriteType = {
+		name = "GFX_enacted_reform_icon"
+		texturefile = "gfx//interface//enacted_reform_icon.tga"
+		loadType = "INGAME"
+	}
+
+	spriteType = {
+		name = "GFX_hre_bg"
+		texturefile = "gfx//interface//hre_bg.tga"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_hre_bg_extended"
+		texturefile = "gfx//interface//hre_bg_extended.tga"
+		loadType = "INGAME"
+	}	
+	
+	spriteType = {
+		name = "GFX_hre_vote_bg"
+		texturefile = "gfx//interface//hre_vote_bg.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	
+}
