@@ -988,6 +988,5 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_core_all_button"
 		texturefile = "gfx/interface/core_all_button.dds"
-	}	
-}
+	}
 }

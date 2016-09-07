@@ -1054,8 +1054,7 @@ red_sea_coast_area = {
 tigray_area = {
 }
 
-ifat_area = {(+Bale)
-
+ifat_area = {
 }
 
 somaliland_area = {
