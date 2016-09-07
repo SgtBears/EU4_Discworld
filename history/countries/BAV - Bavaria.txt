@@ -14,7 +14,7 @@ capital = 65	# München!
 		adm = 2
 		dip = 4
 		mil = 2
-    	}
+	}
 }
 
 1401.3.27 = {
@@ -157,7 +157,7 @@ capital = 65	# München!
 	}
 }
 
-1550.3.7   = {
+1550.3.7 = {
 	monarch = {
 		name = "Albrecht V"
 		dynasty = "von Wittelsbach"
