@@ -5,6 +5,40 @@ random_new_world_region = {
 }
 
 ########################################
+# Discworld                               #
+########################################
+
+discworld_region = {
+	areas = {
+		swamp_sea_coast_area
+		circle_sea_coast_area
+		fourecks_area
+		volcanic_area
+		agatean_area
+		agatean_peninsula_area
+		rim_ocean_area
+		widdershins_coast_area
+		hubland_steppes_area
+		octarine_area
+		rimwards_coast_area
+		kythia_area
+		genua_area
+		uberwald_area
+		brindisi_area
+		central_plains_area
+		rehigreed_areaarea
+		khanli_region_area
+		tezuman_region_area
+		inner_klatch_area
+		deepest_klatch_area
+		klatchian_coast_area
+		klatchian_circle_sea_area
+		the_ramtops_area
+		sto_plains_arearea
+	}
+}
+
+########################################
 # EUROPE                               #
 ########################################
 
@@ -43,7 +77,6 @@ scandinavia_region = {
 	}
 }
 
-
 low_countries_region = {
 	areas = {
 		wallonia_area
@@ -53,7 +86,6 @@ low_countries_region = {
 		frisia_area
 		luxemburg_liege_area
 	}
-
 }
 
 italy_region = {
@@ -72,7 +104,6 @@ italy_region = {
 		central_italy_area
 	}
 }
-
 
 north_german_region = {
 	areas = { 
@@ -93,16 +124,8 @@ north_german_region = {
 		weser_area
 		holstein_area
 		mecklenburg_area
-
-
-
-
-
 	}
 }
-
-
-
 
 south_german_region = {
 	areas = { 
@@ -119,7 +142,6 @@ south_german_region = {
 		upper_rhineland_area
 		romandie_area
 		palatinate_area
-
 	}
 }
 
@@ -134,10 +156,8 @@ russia_region = {
 		karelia_area
 		ryazan_area
 		tambov_area
-
 	}
 }
-
 
 ural_region = {
 	areas = {
@@ -148,7 +168,6 @@ ural_region = {
 		saratov_area
 		kama_area
 		bashkiria_area
-		
 	}
 }
 
@@ -168,8 +187,6 @@ iberia_region = {
 		macaronesia_area
 	}
 }
-
-
 
 british_isles_region = {
 	areas = {
@@ -216,7 +233,6 @@ ruthenia_region = {
 		podolia_volhynia_area
 		pripyat_area
 		smolensk_area
-
 	}
 }
 
@@ -337,7 +353,6 @@ khorasan_region = {
 	}
 }
 
-
 caucasia_region = {
 	areas = {
 		circassia_area
@@ -361,7 +376,6 @@ arabia_region = {
 
 niger_region = {
 	areas = {
-
 		adamawa_plateau_area
 		lower_niger_area
 		hausa_area
@@ -377,17 +391,13 @@ niger_region = {
 
 guinea_region = {
 	areas = {
-
 		cap_verde_area
 		guinea_coast_area
 		gulf_of_guinea_area
 		futa_jallon_area
 		west_africa_coast_area
-
-
 	}
 }
-
 
 sahel_region = {
 	areas = {
@@ -518,7 +528,6 @@ mongolia_region = {
 		ordos_area
 		zungaria_area
 		altai_sayan_area
-		
 	}
 }
 
@@ -531,7 +540,6 @@ manchuria_region = {
 		north_korea_area
 		central_korea_area
 		south_korea_area
-		
 	}
 }
 
@@ -541,7 +549,6 @@ tibet_region = {
 		amdo_area
 		kham_area
 		tarim_basin_area
-		
 	}
 }
 
@@ -586,7 +593,6 @@ west_india_region = {
 		tapti_area
 		sindh_area
 		konkan_area
-		
 	}
 }
 
@@ -614,7 +620,6 @@ coromandel_region = {
 	}
 }
 
-
 burma_region = {
 	areas = {
 		kachin_area
@@ -622,7 +627,6 @@ burma_region = {
 		lower_burma_area
 		shan_hill_area
 		northern_thai_area
-
 	}
 }
 
@@ -648,7 +652,6 @@ australia_region = {
 	}
 }
 
-
 south_china_region = {
 	areas = {
 		guangdong_area
@@ -667,7 +670,6 @@ xinan_region = {
 		sichuan_area
 		yun_gui_area
 		guangxi_area
-		
 	}
 }
 
@@ -712,10 +714,8 @@ la_plata_region = {
 		south_atlantic_islands_area
 		southern_chile_area
 		central_chile_area
-
 	}
 }
-
 
 colombia_region = {
 	areas = {
@@ -751,11 +751,10 @@ upper_peru_region = {
 		chaco_area
 		paraguay_area
 		northern_chile_area
-		
 	}
 }
 
-malaya_region = {	#Western Indonesia Malaya.
+malaya_region = {
 	areas = {
 		north_sumatra_area
 		central_sumatra_area
@@ -763,11 +762,8 @@ malaya_region = {	#Western Indonesia Malaya.
 		indian_ocean_islands_area
 		tenasserim_area
 		malaya_area
-
-
 	}
 }
-
 
 moluccas_region = {
 	areas = {
@@ -776,13 +772,10 @@ moluccas_region = {
 		luzon_area
 		great_moluccas_area
 		papua_area
-
 	}
 }
 
-
-
-indonesia_region = { #Eastern Indonesian/Malayan Islands.
+indonesia_region = {
 	areas = {
 		kutai_area
 		brunei_area
@@ -791,10 +784,8 @@ indonesia_region = { #Eastern Indonesian/Malayan Islands.
 		central_java_area
 		west_java_area
 		lesser_sunda_islands_area
-
 	}
 }
-
 
 oceanea_region = {
 	areas = {
@@ -803,7 +794,6 @@ oceanea_region = {
 		melanesia_area
 		te_ika_a_maui_area
 		te_waipounamu_area
-		
 	}
 }
 
@@ -1010,7 +1000,6 @@ caribbean_sea_region = {
 		sargasso_sea_area
 	}
 }
-
 
 west_african_sea_region = {
 	areas = {
