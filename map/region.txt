@@ -5,40 +5,6 @@ random_new_world_region = {
 }
 
 ########################################
-# Discworld                               #
-########################################
-
-discworld_region = {
-	areas = {
-		swamp_sea_coast_area
-		circle_sea_coast_area
-		fourecks_area
-		volcanic_area
-		agatean_area
-		agatean_peninsula_area
-		rim_ocean_area
-		widdershins_coast_area
-		hubland_steppes_area
-		octarine_area
-		rimwards_coast_area
-		kythia_area
-		genua_area
-		uberwald_area
-		brindisi_area
-		central_plains_area
-		rehigreed_areaarea
-		khanli_region_area
-		tezuman_region_area
-		inner_klatch_area
-		deepest_klatch_area
-		klatchian_coast_area
-		klatchian_circle_sea_area
-		the_ramtops_area
-		sto_plains_arearea
-	}
-}
-
-########################################
 # EUROPE                               #
 ########################################
 

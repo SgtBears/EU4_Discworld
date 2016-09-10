@@ -50,7 +50,6 @@ monarch_names = {
 	
 	
 	
-	"Baramparaye #0" = -1
 	"Ngenzahago #0" = -1
 	"Baramparaye #0" = -1
 }
