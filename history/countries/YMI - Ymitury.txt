@@ -1,0 +1,15 @@
+government = feudal_monarchy
+mercantilism = 0.2
+capital = 40
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Sha'bân"
+		dynasty = "Selawiyya"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+

@@ -1,0 +1,16 @@
+government = feudal_monarchy
+mercantilism = 0.2
+technology_group = western
+capital = 77
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Eric"
+		dynasty = "of Sto Lat"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+

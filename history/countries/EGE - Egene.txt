@@ -1,0 +1,16 @@
+government = feudal_monarchy
+mercantilism = 0.2
+technology_group = ottoman
+capital = 109
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Adam"
+		dynasty = "MacWilliam"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+

@@ -1,0 +1,16 @@
+government = republican_dictatorship
+mercantilism = 0.2
+technology_group = eastern
+capital = 6
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Basileios"
+		dynasty = "Komnenos"
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+

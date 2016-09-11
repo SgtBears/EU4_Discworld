@@ -1,0 +1,16 @@
+government = feudal_monarchy
+mercantilism = 0.2
+technology_group = eastern
+capital = 32
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Korkud"
+		dynasty = "Mirrani"
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+

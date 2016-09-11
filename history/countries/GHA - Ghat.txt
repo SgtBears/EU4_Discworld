@@ -1,0 +1,15 @@
+government = feudal_monarchy
+mercantilism = 0.2
+technology_group = muslim
+capital = 67
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Menalac Aitoka"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+

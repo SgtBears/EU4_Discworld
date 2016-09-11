@@ -1,0 +1,19 @@
+government = feudal_monarchy
+mercantilism = 0.2
+technology_group = ottoman
+capital = 127# Bonk
+elector = yes
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Margolotta"
+		dynasty = "von Überwald"
+		adm = 3
+		dip = 5
+		mil = 1
+		female = yes
+	}
+	set_allow_female_emperor = yes
+}
+

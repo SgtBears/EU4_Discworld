@@ -1001,37 +1001,6 @@ cb_maya_expansion = {
 	war_goal = take_capital_imperial
 }
 
-# Reunification of China
-cb_chinese_unification = {
-	valid_for_subject = no
-
-	prerequisites = {
-		culture_group = east_asian #Chinese
-		is_subject = no
-		OR = {	#Manchus won't get this unless they unify
-			tag = MCH
-			tag = QNG
-			NOT = { primary_culture = manchu }
-		}
-		FROM = { #Applies against other powers in China unless they have the Mandate of Heaven
-			NOT = { is_subject_of = ROOT }
-			culture_group = east_asian #Chinese
-			any_owned_province = {
-				OR = {
-					region = north_china_region
-					region = xinan_region
-					region = south_china_region
-				}
-			}
-			NOT = { has_country_modifier = the_mandate_of_heaven }
-		}
-		is_neighbor_of = FROM
-	}
-
-	war_goal = superiority_chinese_unification
-}
-
-
 # Force migration
 cb_force_migration = {
 

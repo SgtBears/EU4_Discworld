@@ -1,0 +1,16 @@
+government = celestial_empire
+mercantilism = 0.2
+technology_group = chinese
+capital = 205# Hung Hung
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Ts'uit Li"
+		dynasty = "Sung"
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+}
+

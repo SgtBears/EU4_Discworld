@@ -1,0 +1,17 @@
+government = feudal_monarchy
+mercantilism = 0.2
+technology_group = western
+capital = 76
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Agantia"
+		dynasty = "of Skund"
+		female = yes
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+

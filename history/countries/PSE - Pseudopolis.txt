@@ -1,0 +1,16 @@
+government = constitutional_republic
+mercantilism = 0.2
+technology_group = western
+capital = 23
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Ned"
+		dynasty = "Hargath"
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+}
+

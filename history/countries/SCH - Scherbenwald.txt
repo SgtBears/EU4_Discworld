@@ -1,0 +1,17 @@
+government = feudal_monarchy
+mercantilism = 0.2
+technology_group = ottoman
+capital = 122
+elector = yes
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Alfred"
+		dynasty = "von Blankenburg"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+

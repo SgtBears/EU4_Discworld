@@ -1,0 +1,16 @@
+government = feudal_monarchy
+mercantilism = 0.2
+technology_group = indian
+capital = 188
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Janibek"
+		dynasty = "Dulmakiroglu"
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+}
+

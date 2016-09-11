@@ -1,0 +1,16 @@
+government = theocratic_government
+mercantilism = 0.2
+technology_group = muslim
+capital = 68
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Daniel"
+		dynasty = "Sandoval"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+

@@ -1,0 +1,16 @@
+government = theocratic_government
+mercantilism = 0.2
+technology_group = eastern
+capital = 5
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Hikmat"
+		dynasty = "Bhullara"
+		adm = 2
+		dip = 5
+		mil = 0
+	}
+}
+
